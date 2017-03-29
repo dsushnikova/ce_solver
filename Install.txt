@@ -1,0 +1,18 @@
+Compress and Eliminate solver
+==============================
+
+Dependences
+———————————-
+
+* NumPy
+* ScyPy
+* matplotlib
+
+Installing
+—————————-
+
+To build and install run::
+
+     sh compile.sh
+
+
