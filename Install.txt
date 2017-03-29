@@ -1,7 +1,7 @@
 Compress and Eliminate solver
 ==============================
 
-Dependences
+Dependencies
 ———————————-
 
 * NumPy

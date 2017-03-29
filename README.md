@@ -5,7 +5,6 @@ This is a Fortran + Python implementation of the [Compress and Eliminate](https:
 ## Installation
 
 ```
-cd ce_solver
 sh compile.sh
 ```
 
@@ -14,6 +13,6 @@ sh compile.sh
 
 The minimum requirement by CE is [NumPy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [matplotlib](http://matplotlib.org/).
 
-##Quick Start
+## Quick Start
 
 You can find Jupyter notebook with examples in folder "examples".
