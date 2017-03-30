@@ -1,7 +1,6 @@
 import numpy as np
-from numba import autojit, jit
 import scipy.io
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import copy
 from scipy.sparse.linalg import gmres, LinearOperator, spilu, cg
 from scipy.sparse.linalg import spsolve

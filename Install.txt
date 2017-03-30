@@ -13,6 +13,6 @@ Installing
 
 To build and install run::
 
-     sh compile.sh
+     python setup.py install
 
 

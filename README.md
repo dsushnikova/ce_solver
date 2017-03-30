@@ -5,7 +5,7 @@ This is a Fortran + Python implementation of the [Compress and Eliminate](https:
 ## Installation
 
 ```
-sh compile.sh
+python setup.py install
 ```
 
 
